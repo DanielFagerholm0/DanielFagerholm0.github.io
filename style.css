@@ -1,0 +1,33 @@
+h1 {
+    color: white;
+    background-color: darkblue;
+    font-size: 50px;
+    text-decoration: underline;
+    font-family: georgia;
+    text-align: center;
+}
+h2 {
+    color: white;
+}
+h3{
+    color: white;
+}
+h4{
+    color: white;
+}
+a {
+    color: white;
+}
+
+
+p {
+    color: white;
+    text-align: right;
+    line-height: 20px;
+    letter-spacing: 3px;
+    column-count: 1;
+    column-gap: 60px;
+}
+ body {
+background-image: url("image/blue-background-4863452_1280.jpg");
+}
